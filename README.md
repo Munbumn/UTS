@@ -52,7 +52,7 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 ```mermaid
 erDiagram
     RhytmHeroes ||--o{ Developer : deployment
-    Pemain ||--|{ RhytmHeroes : Execute
+    Pemain ||--|{ RhytmHeroes : Install
 ```
 
 ## 4. Arsitektur Sistem
