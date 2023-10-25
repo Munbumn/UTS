@@ -35,7 +35,9 @@ User Experience Theme :
     Fantasi
 
 Inspirasi Desain :
-![undertale](https://ibb.co/bNHWvjc)
+
+![download](https://github.com/Munbumn/UTS/assets/79837322/b32cbe76-4b11-433b-8232-b478370fda44)
+
 
 ## 2. User Story
 
@@ -70,7 +72,8 @@ Dalam pembuatan game berbasis 2d ini saya menggunakan teknologi engine Unity den
 
 ## 6. Desain User Experience dan User Interface
 
-![Contoh](https://drive.google.com/file/d/1VaOvkkQm2v2nIwWOzXP8PmkmiHEcgJw2/view?usp=drive_link)
+![Imagine](https://github.com/Munbumn/UTS/assets/79837322/2b3ff437-b082-435d-b4a1-a407b26acc4e)
+
 
 ## 7. Demonstrasi Video
 
