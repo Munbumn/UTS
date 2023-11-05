@@ -48,6 +48,7 @@ Inspirasi Desain :
 
 ![download](https://github.com/Munbumn/UTS/assets/79837322/b32cbe76-4b11-433b-8232-b478370fda44)
 
+![68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6d616e69612d67616d65706c61792e6a7067](https://github.com/Munbumn/UTS/assets/79837322/b5dba10c-be0e-49d1-a12e-58316c355dd0)
 
 ## 2. User Story
 
