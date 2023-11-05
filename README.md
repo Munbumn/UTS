@@ -14,7 +14,9 @@ Game Rhytm Hero ini bertemakan tentang seseorang yang nelayan yang tidak pandai 
 
 game yang bertajuk Rhytm Hero ini sesuai dengan namanya ia mengedepankan game ke aspek rhytm sebagai daya tarik utamanya ditambah dengan cerita perjalanan hidup dari cadence yang asalnya hanya ingin bertahan tetapi takdir berkata bahwa ia adalah penyelamat dunia. Dalam game ini battle phase yang disajikan akan seperti game ritme yang biasa ada di arcade dengan bumbu story line yang dipusatkan pada karakter cadence yang masih belum diketahui masa lalunya dan masa depan yang akan dia lalui. 
 
-game ini dibuat dengan game engine Unity dan 
+game ini dibuat dengan game engine Unity dan bergenre 2d turn based rpg,rhytm,pixel, indie dengan campuran komedi dan dengan cerita menarik yang akan berkembang bersamman dengan progress dari gamenya. Semua asset yang ada dalam game ini dibuat oleh satu orang dan masih belum berpengalaman dalam ranah pixel art, lagu, soundtrack, sound effect, dubbing, gameplay, membuatnya masih sangat kurang dalam beberapa bidang atau seperti masih ada yang tidak pas atau terasa kaku dari segi gameplay dan bidang lainnya.
+
+Game yang bertajuk rhytm hero ini masih dalam tahap pengembangan dan masih dalam port device windows. Dalam perencanaan perilisan game Rhytm Hero ini akan menjamah ke port android dengan berbagai update ui lain yang memudahkan para pemain dan menambah user experience dalam permainan game Rhytm Hero ini. Game ini terinspirasi dari beberapa game yang sudah terkenal di ranah dunia game seperti game Undertale yang dibuat oleh Toby Fox, lalu ada osu atau secara rincinya adalah osu mania, game Pokemon series akrena dalam grafik dan segi gameplaynya ataupun environtment akan mengikuti style dari game pokemon black and white, lalu ada persona 5 karena dalam segi dialog game persona 5 memiliki dialog yang sangat melimpah dengan beberapa sistem seperti arcana atau lebih ganpangnya status ikatan(Bond) setiap karakter akan memiliki status yang akan berpengaruh pada beberapa aspek dalam game.
 
 ## 1.3. Branding
 
