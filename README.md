@@ -18,7 +18,20 @@ game ini dibuat dengan game engine Unity dan bergenre 2d turn based rpg,rhytm,pi
 
 Game yang bertajuk rhytm hero ini Dalam perencanaan perilisannya akan mengambil port android dengan berbagai update ui lain yang memudahkan para pemain dan menambah user experience dalam permainan game Rhytm Hero ini. Game ini terinspirasi dari beberapa game yang sudah terkenal di ranah dunia game seperti game Undertale yang dibuat oleh Toby Fox, lalu ada osu atau secara rincinya adalah osu mania, game Pokemon series karena dalam grafik dan segi gameplaynya juga environtment akan mengikuti style dari game pokemon black and white, lalu ada persona 5 karena dalam segi dialog game persona 5 menurut saya memiliki dialog yang sangat hidup dan melimpah dengan beberapa sistem seperti arcana atau lebih ganpangnya yaitu status ikatan (Bond) setiap karakter akan memiliki status yang akan berpengaruh pada beberapa aspek dalam game. Dalam beberapa aspek untuk memperkaya gamenya, saya akan mengambil referensi dari game Yakuza series dari Ryu Ga Gotoku atau lebih tepatnya game Yakuza 0 karena dalam game Yakuza 0 menurut saya game itu memiliki side quest side quest yang banyak dan beragam serta unik berbeda dengan game lainnya. Dalam side questnya game itu meski kadang terasa aneh ataupun kadang terasa tidak masuk akal tetapi keunikan itu yang membuatnya sangat dicintai penggemarnya termasuk saya. Dalam segi farming untuk menambah level dan memperkuat karakter saya ingin farming seperti game rhytm lainnya atau secara spesifik yaitu game Hatsune Miku Colorful Stage tetapi dengan bumbu lain dalam farmingnya tidak hanya langsung memilih lagu tetapi akan melakukan seperti approaching foe atau mirip seperti game Persona Series atau game Yakuza series maupun game pokemon hello eevee.
 
-Dalam game Rhytm Hero kita bisa farming diantaranya pet,weapon,card,armor,ataupun gameobject lainnya untuk menambah keseruan dalam bermain yang membuat para pemain lebih mengulik equipment yang disediakan dalam game ini. 
+Dalam game Rhytm Hero kita bisa farming diantaranya pet,weapon,card,armor,ataupun gameobject lainnya untuk menambah keseruan dalam bermain yang membuat para pemain lebih mengulik equipment yang disediakan dalam game ini. Untuk software yang dipakai dalam proses pembuatan game Rhytm Hero ini beberapa diantaranya:
+
+- Unity
+  Software Unity dipakai dalam melakukan design dalam pembuatan gamenya dengan memakai asset yang sudah disiapkan.
+
+-Pixilart
+  Pixilart sebenarnya bukan software lebih ke website yang sangat saya pakai dalam pembuatan asset game.
+
+-Visual Studio
+  visual studio dipakai dalam melakukan coding backend dalam game yang sudah di design di software unity
+
+-Apex Legend
+  Apex Legend diperlukan untuk memelihara mental sanity dalam pembuatan dan penyelesaian code.
+
 
 ## 1.3. Branding
 
@@ -43,8 +56,12 @@ Target user:
 User Experience Theme : 
 
     Mudah
+
+    Pixelated
     
     Sederhana
+
+    komedi
     
     Fantasi
 
