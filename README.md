@@ -23,13 +23,13 @@ Dalam game Rhytm Hero kita bisa farming diantaranya pet,weapon,card,armor,ataupu
 - Unity
   Software Unity dipakai dalam melakukan design dalam pembuatan gamenya dengan memakai asset yang sudah disiapkan.
 
--Pixilart
+- Pixilart
   Pixilart sebenarnya bukan software lebih ke website yang sangat saya pakai dalam pembuatan asset game.
 
--Visual Studio
+- Visual Studio
   visual studio dipakai dalam melakukan coding backend dalam game yang sudah di design di software unity
 
--Apex Legend
+- Apex Legend
   Apex Legend diperlukan untuk memelihara mental sanity dalam pembuatan dan penyelesaian code.
 
 
