@@ -44,6 +44,10 @@ Campaign : Bagainama membuat game yang unik dengan mengedepankan irama
 Target user:
 
     Usia 12+
+
+    Seseorang yang senang mencoba hal-hal baru
+
+    Seseorang yang menikmati story dalam game
     
     Seseorang yang menyukai game rhytm
     
@@ -58,10 +62,14 @@ User Experience Theme :
     Mudah
 
     Pixelated
-    
-    Sederhana
 
-    komedi
+    Story
+
+    Music
+    
+    Simple
+
+    Komedi
     
     Fantasi
 
@@ -78,6 +86,11 @@ Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 Pengguna | Bisa Menekan Lantai Seirama | Mendapat Kepuasan | ⭐⭐⭐⭐⭐
 Pengguna | Bisa Memainkan Lagu Yang Bermacam-Macam | Tidak Bosan | ⭐⭐⭐⭐⭐
 Pengguna | Interaksi Mulus | Tidak Menghambat experience dalam bermain | ⭐⭐⭐⭐⭐
+Pengguna | Bisa mengakses game | tidak ada bug dalam proses launcher dalam game | ⭐⭐⭐⭐⭐
+Pengguna | Bisa save dan load game dengan online ataupun local | dalam proses saveing game bisa memilih save ke local data atau sync lewat online cloud database | ⭐⭐⭐⭐⭐
+Pengguna | Bisa membuka menu dalam game | dalam proses mainmenu bisa mengakses semua tombol yang ada ataupun mengakses quit | ⭐⭐⭐⭐⭐
+Pengguna | Bisa mengedit karakter sesuai cosmetik atau equipment yang kita punya | bisa mengedit custom character agar bisa sesuai dengan keinginan pemainnya | ⭐⭐⭐⭐⭐
+Pengguna |  |  | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
